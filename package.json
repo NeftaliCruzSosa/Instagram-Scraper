@@ -1,0 +1,9 @@
+{
+  "dependencies": {
+    "fs": "^0.0.1-security",
+    "image-downloader": "^4.3.0",
+    "puppeteer": "^18.2.1",
+    "puppeteer-core": "^18.2.0",
+    "request": "^2.88.2"
+  }
+}
