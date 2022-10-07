@@ -9,7 +9,8 @@ You just have to pass the necessary parameters and let it work, it will download
 
 
 <details><summary>## Step by Step</summary>
-    1. Clone this repo
+    <p>
+        1. Clone this repo
     ```bash
     https://github.com/NeftaliCruzSosa/Instagram-Scraper.git
     ```
@@ -19,6 +20,7 @@ You just have to pass the necessary parameters and let it work, it will download
     ```
     3. Configure -- Follow instructions
     4. Run -- Follow instructions
+    </p>
 </details>
     
 ## How to configure
