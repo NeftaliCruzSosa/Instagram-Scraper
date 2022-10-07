@@ -13,15 +13,15 @@ You just have to pass the necessary parameters and let it work, it will download
     
     1. Clone this repo
     
-    ```bash
-    https://github.com/NeftaliCruzSosa/Instagram-Scraper.git
-    ```
+```bash
+https://github.com/NeftaliCruzSosa/Instagram-Scraper.git
+```
 
     2. Install node dependencies
     
-    ```bash
-    npm i
-    ```
+```bash
+npm i
+```
     
     3. Configure -- Follow instructions
     
