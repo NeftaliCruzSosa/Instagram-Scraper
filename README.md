@@ -9,18 +9,25 @@ You just have to pass the necessary parameters and let it work, it will download
 
 
 <details><summary>## Step by Step</summary>
-    <p>
-        1. Clone this repo
+<p>
+    
+    1. Clone this repo
+    
     ```bash
     https://github.com/NeftaliCruzSosa/Instagram-Scraper.git
     ```
+
     2. Install node dependencies
+    
     ```bash
     npm i
     ```
+    
     3. Configure -- Follow instructions
+    
     4. Run -- Follow instructions
-    </p>
+
+</p>
 </details>
     
 ## How to configure
