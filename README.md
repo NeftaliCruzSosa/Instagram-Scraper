@@ -8,6 +8,19 @@ Fully automatic script programmed in nodeJS and puppeteer
 You just have to pass the necessary parameters and let it work, it will download all the public photos of a profile
 
 
+<details><summary>## Step by Step</summary>
+    1. Clone this repo
+    ```bash
+    https://github.com/NeftaliCruzSosa/Instagram-Scraper.git
+    ```
+    2. Install node dependencies
+    ```bash
+    npm i
+    ```
+    3. Configure -- Follow instructions
+    4. Run -- Follow instructions
+</details>
+    
 ## How to configure
 
 Open the configuration file config.json, you can use any text editor
